@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animation" Collapsed="true">
+    <Position X="35" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAEAQAAAJAAAAAggAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimatedSprite" Collapsed="true">
+    <Position X="33.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAxAChAAIAAEAAAJAAAAAAAKgAAAUIAAkAAQNIAA=</HashCode>
+      <FileName>AnimatedSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackgroundBlackHole" Collapsed="true">
+    <Position X="24" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAAA=</HashCode>
+      <FileName>BackgroundBlackHole.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackgroundObj" Collapsed="true">
+    <Position X="26.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAACAAAIAAAAAAAAEAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackgroundObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackgroundStar" Collapsed="true">
+    <Position X="26.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackgroundStar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackgroundStar2" Collapsed="true">
+    <Position X="28.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BackgroundStar2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAAQAAAAAAAAAIAAIAAAAAEACAEAEIAAAAAAGAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonExit" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAQAAAAAAACAAAA=</HashCode>
+      <FileName>ButtonExit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonHowToPlay" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAIAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>ButtonHowToPlay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonScoreTable" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAACAACA=</HashCode>
+      <FileName>ButtonScoreTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButtonStartGame" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAA=</HashCode>
+      <FileName>ButtonStartGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller" Collapsed="true">
+    <Position X="36.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgMA4S1pRigHhEDAC8YCgUgAICCEgsIhCCAnASUAMA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Explosion" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAAAAAAACAAAICAAAEAAAEAAAAAAAAAAAABAQ=</HashCode>
+      <FileName>Explosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObj" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIQAIBAAAAACYEBIAQAACEACMAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>GameObj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="33.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAMAAAAAABAQAAKEAIkAJCAAAAIEAGAkAAAACAAAAQ=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obstacle" Collapsed="true">
+    <Position X="30.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Obstacle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObstacleAsteroid" Collapsed="true">
+    <Position X="30.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ObstacleAsteroid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUp" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgABAAAAAACAAAIAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUpAmmo" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAECBAAIAAAAAAAAAA=</HashCode>
+      <FileName>PowerUpAmmo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUpDelay" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAEACAAAAAAAAAAAAAAAEAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>PowerUpDelay.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PowerUpLife" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAABQAAAkAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PowerUpLife.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spaceship" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACFAAIAEAAAAAAAACAIIAAAgAABEAACFAAAAJAAAAAg=</HashCode>
+      <FileName>Spaceship.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceshipEnemy" Collapsed="true">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAACAACAAAAIAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>SpaceshipEnemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceshipEnemyAdvanced" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAACAAAAAAAEAAAAAAAAABAAAQAAAAAA=</HashCode>
+      <FileName>SpaceshipEnemyAdvanced.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceshipEnemyBoss" Collapsed="true">
+    <Position X="12.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAIAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpaceshipEnemyBoss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceshipEnemySimple" Collapsed="true">
+    <Position X="15" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAACAAAAAAAAAAAAAAAAABAAAAACABAA=</HashCode>
+      <FileName>SpaceshipEnemySimple.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceshipPlayer" Collapsed="true">
+    <Position X="17.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIEIAAAAAAAAASQCAAAAAAAABEEAACIAGIAAAAIABA=</HashCode>
+      <FileName>SpaceshipPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Weapon" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAEAAAAAAAAAAAAAEAggAAAEAAAAAAAA=</HashCode>
+      <FileName>Weapon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponHomingMissile" Collapsed="true">
+    <Position X="19.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEQAAAAAAAAACAAAIAAEAAAAAAACAAAAAAAAAAAAI=</HashCode>
+      <FileName>WeaponHomingMissile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeaponLaser" Collapsed="true">
+    <Position X="21.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgCAAAIAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>WeaponLaser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="World" Collapsed="true">
+    <Position X="35" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEASQAhBBACEAgACIADAAgAAACAAAAAAAACACAQAA=</HashCode>
+      <FileName>World.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MoveDirection" Collapsed="true">
+    <Position X="33.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAQAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GameObj.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WeaponNum" Collapsed="true">
+    <Position X="36.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgAAAAAAAQAAAAAAACAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Spaceship.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Spaceships" Collapsed="true">
+    <Position X="35" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAFAAAAAAAAAAAAAAAAAAACAAAAAAEAAAAA=</HashCode>
+      <FileName>Spaceship.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
